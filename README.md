@@ -18,5 +18,3 @@
 
 ## Disclaimer
 The code is provided as is without warranty and is intended for demonstration and education purposes.
-
-## copp
