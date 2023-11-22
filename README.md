@@ -12,7 +12,7 @@
 * calendar-prompt.py - generates image based on your calendar
 * refresh_display.sh - service script for Raspbian for running this physically
 * crop-image.py - crops image to your display dimensions
-* draw_image.py - from the omni-epd project, draws image on eink
+* draw_image.py - from the [omni-epd](https://github.com/robweber/omni-epd/blob/main/examples/basic_example/draw_image.py) project, draws image on eink
 
 ## Disclaimer
 The code is provided as is without warranty and is intended for demonstration and education purposes.
