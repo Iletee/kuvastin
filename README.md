@@ -14,7 +14,7 @@
 * refresh_display.sh - service script for Raspbian for running this physically
 * crop-image.py - crops image to your display dimensions
 * draw_image.py - from the [omni-epd](https://github.com/robweber/omni-epd/blob/main/examples/basic_example/draw_image.py) project, draws image on eink
-* Fonts: [Libre Baskerville](https://github.com/impallari/Libre-Baskerville) licensed under OFL Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com),  Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello¨rfuenzalida.com), with Reserved Font Name Libre Baskerville.
+* Fonts: [Libre Baskerville](https://github.com/impallari/Libre-Baskerville) licensed under OFL
 
 ## Disclaimer
 The code is provided as is without warranty and is intended for demonstration and education purposes.
